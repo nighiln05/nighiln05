@@ -26,15 +26,6 @@ Currently working on **panoramic semantic segmentation and visual understanding*
 
 ## 🚀 Featured Research
 
-### 🏙️ PanoFusion — Panoramic Semantic Segmentation
-
-**PanoFusion: Boundary-Aware Vision-Language Segmentation for Stitched Indoor Panoramas**
-
-A computer vision project focused on semantic segmentation of stitched indoor panoramic images, enabling detailed understanding of indoor environments across multiple object categories. The work also involved curating the **Ind-PanSeg** dataset containing 120 indoor panoramas across 21 semantic classes.
-
-📄 **Submitted to ICVGIP 2026**
-
----
 ### 🔍 RGAE + PNNR — Visual Anomaly Detection
 
 **Residual Gated AutoEncoder with Patchwise Nearest Neighbor Reconstruction for Visual Anomaly Detection**
@@ -44,6 +35,17 @@ An unsupervised computer vision project focused on detecting defects and anomali
 📄 **Accepted for publication in Springer Nature's Applied Intelligence**
 
 ---
+
+### 🏙️ PanoFusion — Panoramic Semantic Segmentation
+
+**PanoFusion: Boundary-Aware Vision-Language Segmentation for Stitched Indoor Panoramas**
+
+A computer vision project focused on semantic segmentation of stitched indoor panoramic images, enabling detailed understanding of indoor environments across multiple object categories. The work also involved curating the **Ind-PanSeg** dataset containing 120 indoor panoramas across 21 semantic classes.
+
+📄 **Submitted to ICVGIP 2026**
+
+---
+
 
 ### 🔊 Domain-Adaptive Acoustic Anomaly Detection
 
