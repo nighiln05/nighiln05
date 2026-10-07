@@ -2,12 +2,12 @@
 
 ### AI & Data Science | Computer Vision | Deep Learning | Vision-Language Models
 
-I'm a final-year **B.Tech student in Artificial Intelligence and Data Science at Shiv Nadar University Chennai**, with a strong interest in **Computer Vision, Deep Learning, Vision-Language Models, Semantic Segmentation, and Anomaly Detection**.
+Final-year **B.Tech AI & Data Science student at Shiv Nadar University Chennai** with interests in **Computer Vision, Deep Learning, Vision-Language Models, Semantic Segmentation, and Anomaly Detection**.
 
-🔬 Currently working as a **Research Intern at the Visual Perception Lab, IIT Madras**, focusing on panoramic semantic segmentation and visual understanding.
+🔬 **Research Intern @ Visual Perception Lab, IIT Madras**  
+Currently working on **panoramic semantic segmentation and visual understanding**.
 
-🎓 **B.Tech Artificial Intelligence & Data Science**
-Shiv Nadar University Chennai | **CGPA: 9.44/10.0** | 2023–2027
+🎓 **CGPA:** 9.44/10.0 · **2023–2027**
 
 ---
 
@@ -30,46 +30,18 @@ Shiv Nadar University Chennai | **CGPA: 9.44/10.0** | 2023–2027
 
 **PanoFusion: Boundary-Aware Vision-Language Segmentation for Stitched Indoor Panoramas**
 
-A vision-language framework for semantic segmentation of stitched indoor panoramic images.
+A computer vision project focused on semantic segmentation of stitched indoor panoramic images, enabling detailed understanding of indoor environments across multiple object categories. The work also involved curating the **Ind-PanSeg** dataset containing 120 indoor panoramas across 21 semantic classes.
 
-**Key contributions:**
-
-* CLIP-based semantic representations
-* SAM-guided boundary refinement
-* MobileSAM structural priors
-* Gated Cross-Attention Fusion
-* Curation of the **Ind-PanSeg** dataset
-* 120 indoor panoramas across 21 semantic classes
-
-**Results:**
-
-* **54.94% mIoU**
-* **77.00% mAcc**
-
-📄 Submitted to **ICVGIP 2026**
+📄 **Submitted to ICVGIP 2026**
 
 ---
-
 ### 🔍 RGAE + PNNR — Visual Anomaly Detection
 
 **Residual Gated AutoEncoder with Patchwise Nearest Neighbor Reconstruction for Visual Anomaly Detection**
 
-An unsupervised visual anomaly detection framework combining frozen **DINOv2 embeddings**, global semantic modeling, and local patchwise nearest-neighbor reconstruction.
+An unsupervised computer vision project focused on detecting defects and anomalies in images without requiring anomalous samples during training. The approach combines global visual understanding with local patch-level information to identify subtle visual irregularities.
 
-**Key contributions:**
-
-* Residual gating mechanism for adaptive feature fusion
-* DINOv2-based visual representations
-* Patchwise nearest-neighbor reconstruction
-* Efficient architecture with **5.9M parameters**
-
-**Results:**
-
-* **99.60% AUROC — MVTec AD**
-* **94.95% AUROC — VisA**
-* ~35% reduction in model complexity
-
-📄 Accepted for publication in **Springer Nature's Applied Intelligence**
+📄 **Accepted for publication in Springer Nature's Applied Intelligence**
 
 ---
 
@@ -77,16 +49,9 @@ An unsupervised visual anomaly detection framework combining frozen **DINOv2 emb
 
 **From Patches to Confidence: A Dual-Attention and Multi-Centroid Framework for Domain-Adaptive Acoustic Anomaly Detection**
 
-A domain-adaptive acoustic anomaly detection framework using:
+A research project focused on detecting abnormal sounds from industrial machines while adapting to differences between training and target environments. The work explores robust audio representations for reliable anomaly detection across different machine conditions and domains.
 
-* Dual-path spatial-temporal attention
-* Confidence-guided contrastive learning
-* EMA-based center tracking
-* Adaptive sample weighting
-* Multi-centroid anomaly scoring
-* Domain-specific modeling
-
-📄 Submitted to **International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)**
+📄 **Submitted to the International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)**
 
 ---
 
